@@ -1,0 +1,18 @@
+
+build/
+out/
+target/
+
+# wrapper file
+*.zip
+*.rar
+*.tar.gz
+
+## log file
+*.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
